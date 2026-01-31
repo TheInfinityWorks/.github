@@ -1,10 +1,10 @@
 # 🌌 The Infinity Works Team
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-success" />
+  <img src="https://img.shields.io/badge/Status-Ativo-success" />
   <img src="https://img.shields.io/badge/Focus-Games%20%7C%20Web%20%7C%20Embedded-blue" />
-  <img src="https://img.shields.io/badge/Team-Multidisciplinary-purple" />
-  <img src="https://img.shields.io/badge/Made%20with-Creativity%20%26%20Code-black" />
+  <img src="https://img.shields.io/badge/Time-Multidisciplinar-purple" />
+  <img src="https://img.shields.io/badge/Feito%20com-Criatividade%20%26%20Código-black" />
 </p>
 
 > **Criando experiências infinitas, uma ideia de cada vez.**
@@ -46,8 +46,8 @@ Não criamos só projetos. Criamos universos.
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript%20%7C%20Tailwind-61dafb" />
   <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20APIs-green" />
-  <img src="https://img.shields.io/badge/Games-Engines%20Custom%20%7C%202D%20%26%203D-orange" />
-  <img src="https://img.shields.io/badge/Embedded-Arduino%20%7C%20ESP32-red" />
+  <img src="https://img.shields.io/badge/Jogos-Godot%20GMS2%20%7C%202D-orange" />
+  <img src="https://img.shields.io/badge/Embutidos-Arduino%20%7C%20ESP32-red" />
 </p>
 
 ---
