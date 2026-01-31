@@ -46,7 +46,7 @@ Não criamos só projetos. Criamos universos.
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript%20%7C%20Tailwind-61dafb" />
   <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20APIs-green" />
-  <img src="https://img.shields.io/badge/Jogos-Godot%20GMS2%20%7C%202D-orange" />
+  <img src="https://img.shields.io/badge/Jogos-Godot%20%7C%20GMS2%20%7C%202D-orange" />
   <img src="https://img.shields.io/badge/Embutidos-Arduino%20%7C%20ESP32-red" />
 </p>
 
